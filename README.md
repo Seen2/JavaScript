@@ -1,0 +1,2 @@
+# JavaScript
+basic language stuff
