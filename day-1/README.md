@@ -1,2 +1,0 @@
-# JavaScript
-basic language stuff
